@@ -129,7 +129,7 @@ export function SideBar(props: { className?: string }) {
           {webTitle}
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          <span className={styles["sidebar-ad"]}>{webOA}</span>
+          kaikai's ChatGpt Welcome you.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
@@ -182,7 +182,7 @@ export function SideBar(props: { className?: string }) {
             </Link>
           </div>
           <div className={styles["sidebar-action"]}>
-            <a href={REPO_URL} target="_blank">
+            <a href={https://qm.qq.com/q/92OvnGQJA4} target="_blank">
               <IconButton icon={<GithubIcon />} shadow />
             </a>
           </div>
